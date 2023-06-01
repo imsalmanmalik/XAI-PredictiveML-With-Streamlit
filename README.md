@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project aimed to develop a machine learning model to predict the prices of Airbnb listings. The dataset used for the analysis consisted of housing data, including features such as location, number of rooms, availability, and reviews. The project fol- lowed a systematic approach, including data preprocessing, feature engineering, model selection, and evaluation.
+This project aimed to develop a machine learning model to predict the prices of Airbnb listings. The dataset used for the analysis consisted of housing data, including features such as location, number of rooms, availability, and reviews. The project followed a systematic approach, including data preprocessing, feature engineering, model selection, and evaluation.
 
 The dataset was preprocessed by handling missing values, encoding categorical variables, and performing feature scaling. Exploratory data analysis was conducted to gain insights into the data distribution and relationships between variables. Feature engineering techniques were applied to extract meaningful information from the data, including one-hot encoding for categorical variables.
 
@@ -9,9 +9,9 @@ The results showed that the Gradient Boosting Regressor model (Stacking) achieve
 
 In conclusion, the developed machine learning model demonstrated promising predictive capabilities for estimating Airbnb listing prices. The findings highlight the importance of feature selection, model tuning, and interpretability techniques in improving the model’s performance and understanding its behavior.
 
+To access the UI on streamlit:
 
-After successfully installing all the packages and libraries in app.py file 
 ```bash
 streamlit run app.py
 ```
-To view the dashboard on streamlit
+
